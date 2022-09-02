@@ -1,0 +1,6 @@
+"Learning git"
+
+"Git is interesting"
+
+git is popular version control
+i am learning git
